@@ -1,17 +1,27 @@
 {
   "files": {
-    "main.css": "/nexcent-website-project/static/css/main.fd4d38e6.css",
-    "main.js": "/nexcent-website-project/static/js/main.49a13f02.js",
+    "main.css": "/nexcent-website-project/static/css/main.3dee20be.css",
+    "main.js": "/nexcent-website-project/static/js/main.66fcced9.js",
     "static/js/453.5e560239.chunk.js": "/nexcent-website-project/static/js/453.5e560239.chunk.js",
     "static/media/Illustration.svg": "/nexcent-website-project/static/media/Illustration.3176906979b0f6d9f07eab37eb174a6a.svg",
+    "static/media/rafiki.svg": "/nexcent-website-project/static/media/rafiki.ed344ed2032c9bfd60b2f2c77296696e.svg",
+    "static/media/Logo4.svg": "/nexcent-website-project/static/media/Logo4.fec140e45668287e1b7ed4c97e22f610.svg",
+    "static/media/Icon9.svg": "/nexcent-website-project/static/media/Icon9.dd77ad058324f0c308355a0e0e328a38.svg",
     "static/media/Logo.svg": "/nexcent-website-project/static/media/Logo.fe95c061f6f6432aa4fc6d193d45b9c8.svg",
+    "static/media/Logo3.svg": "/nexcent-website-project/static/media/Logo3.5c9deabe45640f4fef280602b78e50b1.svg",
+    "static/media/Icon8.svg": "/nexcent-website-project/static/media/Icon8.16ff5ef58007d7831646f0da2e8a1420.svg",
+    "static/media/Logo5.svg": "/nexcent-website-project/static/media/Logo5.80adf347a3b9c013ac47e47c66f50ee3.svg",
+    "static/media/Icon7.svg": "/nexcent-website-project/static/media/Icon7.96d33b3b13eac9dcff7505e443567613.svg",
+    "static/media/Logo6.svg": "/nexcent-website-project/static/media/Logo6.978be9d7cc08a21e53c7c7b6588f9408.svg",
+    "static/media/Logo1.svg": "/nexcent-website-project/static/media/Logo1.b35c55a83956997af4b0a0f4c5d6f125.svg",
+    "static/media/Logo2.svg": "/nexcent-website-project/static/media/Logo2.f5c2cf8ba7a0abfe7edd8e29ec526076.svg",
     "index.html": "/nexcent-website-project/index.html",
-    "main.fd4d38e6.css.map": "/nexcent-website-project/static/css/main.fd4d38e6.css.map",
-    "main.49a13f02.js.map": "/nexcent-website-project/static/js/main.49a13f02.js.map",
+    "main.3dee20be.css.map": "/nexcent-website-project/static/css/main.3dee20be.css.map",
+    "main.66fcced9.js.map": "/nexcent-website-project/static/js/main.66fcced9.js.map",
     "453.5e560239.chunk.js.map": "/nexcent-website-project/static/js/453.5e560239.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd4d38e6.css",
-    "static/js/main.49a13f02.js"
+    "static/css/main.3dee20be.css",
+    "static/js/main.66fcced9.js"
   ]
 }
