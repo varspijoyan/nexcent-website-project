@@ -54,3 +54,51 @@
     border-radius: 5px;
     cursor: pointer;
 }
+
+.hamburgerMenu {
+    display: none;
+}
+
+@media screen and (max-width: 991px) {
+    .hamburgerMenu {
+        display: block;
+    }
+
+    .navLinks {
+        display: none;
+    }
+
+    .navLinks.show {
+        display: block;
+    }
+
+    .ulLinks {
+        flex-direction: column;
+        position: absolute;
+        justify-content: center;
+        top: 120px;
+        width: 200px;
+        height: auto;
+        background-color: white;
+        box-shadow: 0px 0px 5px rgb(204, 204, 204);
+        border-radius: 5px;
+        gap: 25px;
+    }
+
+    .ulLinks .link {
+        border-bottom: 1px solid rgb(204, 204, 204);
+        padding-bottom: 10px;
+    }
+
+    .ulLinks .link > a {
+        margin-left: 20px;
+    }
+
+    .ulLinks .link:first-child {
+        padding-top: 15px;
+    }
+ 
+    .ulLinks .link:last-child {
+        border: none;
+    }
+}
