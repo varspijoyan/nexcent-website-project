@@ -5,6 +5,27 @@
 :root {
     /* font */
     --inter-font: "Inter", sans-serif;
+    /* neutral colors */
+    --neutral-dgrey-color: #4d4d4d;
+    --neutral-grey-color: #717171;
+    --neutral-lgrey-color: #89939e;
+    --neutral-grey-blue-color: #abbed1;
+    --neutral-silver-color: #f5f7fa;
+    /* primary color */
+    --primary: #28cb8b;
+    --secondary: #263238;
+    /* color shades */
+    --green-color-shade-1: #43a046;
+    --green-color-shade-2: #388e3b;
+    --green-color-shade-3: #237d31;
+    --green-color-shade-4: #1b5e1f;
+    --green-color-shade-5: #103e13;
+    /* color tint */
+    --green-tint-1: #66bb69;
+    --green-tint-2: #81c784;
+    --green-tint-3: #a5d6a7;
+    --green-tint-4: #c8e6c9;
+    --green-tint-5: #e8f5e9;
 }
 
 /* default styles */
