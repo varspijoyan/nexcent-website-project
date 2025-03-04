@@ -1,0 +1,56 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.headerContainer {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    z-index: 1000;
+    padding: 30px;
+}
+
+.logo {
+    width: 150px;
+    cursor: pointer;
+}
+
+.navBar {
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    gap: 30px;
+}
+
+.ulLinks {
+    display: flex;
+    gap: 30px;
+}
+
+.link {
+    list-style-type: none;
+}
+
+.link > a {
+    text-decoration: none;
+    color: #000000;
+}
+
+.btn {
+    background-color: var(--green-color-shade-1);
+    color: #ffffff;
+    padding: 1.8vmin 2vmin;
+    font-size: 2.2vmin;
+    font-weight: 600;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
