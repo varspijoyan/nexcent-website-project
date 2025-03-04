@@ -1,0 +1,53 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.learnMoreSection {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    flex-wrap: wrap;
+}
+
+.textContainer {
+    width: 45vw;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: flex-start;
+}
+
+.learnMoreSection img {
+    width: 60vmin;
+}
+
+.title {
+    font-size: 5vmin;
+    font-weight: 600;
+}
+
+.description {
+    font-size: 2.3vmin;
+}
+
+.btn {
+    padding: 2vmin 3vmin;
+    font-weight: 600;
+    font-size: 2vmin;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background-color: var(--primary);
+    cursor: pointer;
+}
+
+@media screen and (max-width: 991px) {
+    .learnMoreSection {
+        flex-direction: column;
+    }
+}
