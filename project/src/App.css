@@ -41,4 +41,5 @@ body {
     flex-direction: column;
     font-family: var(--inter-font);
     overflow-x: hidden;
+    color: var(--neutral-dgrey-color);
 }

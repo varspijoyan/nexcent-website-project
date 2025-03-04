@@ -1,0 +1,46 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+.clientsSection {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    width: 100%;
+
+}
+
+.icons img {
+    width: 30px;
+    height: auto;
+}
+
+.icons {
+    display: flex;
+    justify-content: center;
+    gap: 120px;
+    flex-wrap: wrap;
+}
+
+.description {
+    margin-bottom: 20px;
+    font-size: 2.5vmin;
+}
+
+.title {
+    font-size: 4.5vmin;
+    font-weight: 600;
+
+}
+
+@media screen and (max-width: 991px) {
+    .icons {
+        padding: 20px;
+    }
+}
