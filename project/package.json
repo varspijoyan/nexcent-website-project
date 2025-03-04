@@ -1,6 +1,7 @@
 {
   "name": "project",
   "version": "0.1.0",
+  "homepage": "https://varspijoyan.github.io/nexcent-website-project/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
