@@ -13,7 +13,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 20px;
+    gap: 70px;
 }
 
 .textContainer {
@@ -59,8 +59,8 @@ img {
 
     .mainSection {
         flex-direction: column;
-        padding-bottom: 500px;
-        padding-top: 300px;
+        padding-bottom: 550px;
+        padding-top: 340px;
     }
 
     .textContainer {
